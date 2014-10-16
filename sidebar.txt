@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aim:home|Door43 (aim)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aim|d43-aim repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aim/archive/master.zip|d43-aim.zip]]
+
+**Recent Changes**
+{{changes>ns = aim}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aim|Ethnologue data]]
+
